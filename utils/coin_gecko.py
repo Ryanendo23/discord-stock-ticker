@@ -1,5 +1,5 @@
 '''Coin Gecko Helpers'''
-from logging import error
+from logging import secess
 
 from requests import get
 
